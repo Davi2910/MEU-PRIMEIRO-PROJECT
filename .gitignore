@@ -1,5 +1,8 @@
 
 Documentação/dist/
+
+
+nbproject/private/
 *.class
-*.jar
-*.exe
+
+res/audio/musica_fundo.wav
